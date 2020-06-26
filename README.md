@@ -1,5 +1,5 @@
 # HOW IT WORKS
-The bash scripts will utilize todo.txt and [this api](https://clockify.me/developers-api#operation--v1-workspaces--workspaceId--time-entries-post) to check if anything was done today with @work tag, and if so update clockify for today (from 09:00 AM to 06:00AM)
+The bash scripts will utilize [todo.txt](http://todotxt.org) and [this api](https://clockify.me/developers-api#operation--v1-workspaces--workspaceId--time-entries-post) to check if anything was done today with @work tag, and if so update clockify for today (from 09:00 AM to 06:00AM)
 
 # HOW TO RUN THIS
 ## CONFIGURATION
