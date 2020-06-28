@@ -16,4 +16,9 @@ https://clockify.me/developers-api#operation--v1-workspaces--workspaceId--projec
 ## RUNNING
 add a scheduled task to run ./check-work.sh
 
+# NEW FEATURES
+- [ ] Add the todo.txt tasks inside the api call description
+- [ ] Use todo.txt projects inside the api calls projects
+- [ ] Add a switch to make sure you can turn the above tasks off if need to (Maybe not everyone would want to show the tasks)
+
 TESTED ON MANJARO ONLY
